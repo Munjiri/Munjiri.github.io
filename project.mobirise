@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 634,
+    "uniqCompNum": 632,
     "versionPublish": "4.9.1",
     "theme": {
       "name": "mobirise4",
@@ -58,7 +58,11 @@
         "file": "@PROJECT_PATH@/fonts/MunjiFont-Regular/font.ttf"
       }
     ],
-    "siteUrl": "undefined"
+    "siteUrl": "https://www.munjiri.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "flyingkites.html": {
