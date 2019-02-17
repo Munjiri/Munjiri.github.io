@@ -15,9 +15,6 @@
 		<loc>https://www.munjiri.com/sandstorm.html</loc>
 	</url>
 	<url>
-		<loc>https://www.munjiri.com/coralandhive.html</loc>
-	</url>
-	<url>
 		<loc>https://www.munjiri.com/mushroomfarm.html</loc>
 	</url>
 	<url>
@@ -64,5 +61,8 @@
 	</url>
 	<url>
 		<loc>https://www.munjiri.com/about.html</loc>
+	</url>
+	<url>
+		<loc>https://www.munjiri.com/coralandhive.html</loc>
 	</url>
 </urlset>
