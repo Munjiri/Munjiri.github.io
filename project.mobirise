@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "index.html",
+    "currentPage": "edinburghfreelancevideographer.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 637,
     "versionPublish": "4.9.1",
@@ -13235,7 +13235,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffcfa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b style=\"font-size: 1rem;\">EDINBURGH FREELANCE VIDEOGRAPHER</b><br></p><p><span style=\"font-size: 1rem;\">Munjiri Videos in Scotland</span></p><p><span style=\"font-size: 1rem;\">I (Katy here) am very excited to be back in Edinburgh, Scotland for the next few months, I have a number of jobs and meetings lined up as well as catching up with some friends. If you are in Edinburgh and would like to meet up for a chat about any video ideas you have, whether it's for your website, instagram etc. send me an email&nbsp;<a href=\"mailto:katy@munjiri.com\" class=\"text-primary\">here</a>.</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffcfa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b style=\"font-size: 1rem;\">EDINBURGH FREELANCE VIDEOGRAPHER</b><br></p><p><span style=\"font-size: 1rem;\">Munjiri Videos in Scotland</span></p><p><span style=\"font-size: 1rem;\">I (Katy here) am very excited to be back in Edinburgh, Scotland for the next few months, I have a number of projects and meetings lined up as well as catching up with some friends. If you are in Edinburgh and would like to meet up for a chat about any video ideas you have, whether it's for your website, instagram etc. send me an email&nbsp;<a href=\"mailto:katy@munjiri.com\" class=\"text-primary\">here</a>.</span></p><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "riE2jyCRo0",
           "_anchor": "content1-hm",
           "_protectedParams": [],
