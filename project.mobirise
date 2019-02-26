@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "blog.html",
+    "currentPage": "ruahanationalparktanzaniasafari.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 632,
     "versionPublish": "4.9.1",
@@ -14895,10 +14895,10 @@
         }
       ]
     },
-    "ruahanationalparktanzania.html": {
+    "ruahanationalparktanzaniasafari.html": {
       "settings": {
         "meta_descr": "Ruaha National Park, Safari, how to get there, animals, accomodation and safari",
-        "title": "Ruaha National Park, Tanzania",
+        "title": "Ruaha National Park, Tanzania, Safari",
         "order": 18
       },
       "components": [
