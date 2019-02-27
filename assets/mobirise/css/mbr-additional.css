@@ -21,28 +21,28 @@ body {
   font-size: 11.2rem;
 }
 .display-2 {
-  font-family: 'Futura Std Book';
+  font-family: 'Futura Book';
   font-size: 0.9rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 1.44rem;
 }
 .display-4 {
-  font-family: 'Futura Std Book';
+  font-family: 'Futura Book';
   font-size: 2rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 3.2rem;
 }
 .display-5 {
-  font-family: 'Futura Std Book';
+  font-family: 'Futura Book';
   font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 1.6rem;
 }
 .display-7 {
-  font-family: 'Futura Std Book';
+  font-family: 'Futura Book';
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -638,7 +638,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Futura Std Book';
+  font-family: 'Futura Book';
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -13794,27 +13794,17 @@ body {
 .cid-rjbZUJ6ocW .mbr-text P {
   text-align: center;
 }
-.cid-rjbZUKWBJH {
+.cid-rjgXFjLDvj {
+  background: #fffcfa;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #fffcfa;
+  background: linear-gradient(0deg, #fffcfa, #ffffff);
 }
-.cid-rjbZUKWBJH .image-block {
+.cid-rjgXFjLDvj .video-block {
   margin: auto;
 }
-.cid-rjbZUKWBJH .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rjbZUKWBJH figcaption {
-  position: relative;
-}
-.cid-rjbZUKWBJH figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
 @media (max-width: 768px) {
-  .cid-rjbZUKWBJH .image-block {
+  .cid-rjgXFjLDvj .video-block {
     width: 100% !important;
   }
 }
@@ -13939,27 +13929,27 @@ body {
 .cid-rjbZUKLlP8 .mbr-text DIV {
   text-align: center;
 }
-.cid-rjbZUKwiOO {
+.cid-rjbZUKWBJH {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #fffcfa;
 }
-.cid-rjbZUKwiOO .image-block {
+.cid-rjbZUKWBJH .image-block {
   margin: auto;
 }
-.cid-rjbZUKwiOO .mbr-figure {
+.cid-rjbZUKWBJH .mbr-figure {
   margin: 0 auto;
 }
-.cid-rjbZUKwiOO figcaption {
+.cid-rjbZUKWBJH figcaption {
   position: relative;
 }
-.cid-rjbZUKwiOO figcaption div {
+.cid-rjbZUKWBJH figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rjbZUKwiOO .image-block {
+  .cid-rjbZUKWBJH .image-block {
     width: 100% !important;
   }
 }
