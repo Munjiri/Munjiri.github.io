@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "blog.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 642,
+    "uniqCompNum": 646,
     "versionPublish": "4.9.1",
     "theme": {
       "name": "mobirise4",
@@ -18,13 +18,13 @@
         "mainFont": "Rubik",
         "display1Font": "MunjiFont-Regular",
         "display1Size": "7",
-        "display2Font": "Futura Book",
+        "display2Font": "Futura Std Book",
         "display2Size": "0.9",
-        "display5Font": "Futura Book",
+        "display5Font": "Futura Std Book",
         "display5Size": "1",
-        "display7Font": "Futura Book",
+        "display7Font": "Futura Std Book",
         "display7Size": "1",
-        "display4Font": "Futura Book",
+        "display4Font": "Futura Std Book",
         "display4Size": "2",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
@@ -58,10 +58,32 @@
         "file": "@PROJECT_PATH@/fonts/MunjiFont-Regular/font.ttf"
       },
       {
-        "css": "'Futura Book'",
-        "name": "Futura Book",
+        "css": "'regular'",
+        "name": "regular",
         "url": null,
-        "file": "@PROJECT_PATH@/fonts/Futura%20Book/font.ttf"
+        "file": "@PROJECT_PATH@/fonts/regular/font.ttf"
+      },
+      {
+        "css": "'Work Sans', sans-serif",
+        "name": "Work Sans",
+        "url": "https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Open Sans', sans-serif",
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+      },
+      {
+        "css": "'Futura Std Book'",
+        "name": "Futura Std Book",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Futura%20Std%20Book/font.ttf"
+      },
+      {
+        "css": "'font'",
+        "name": "font",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/font/font.ttf"
       }
     ],
     "siteUrl": "https://www.munjiri.com",
@@ -75,7 +97,7 @@
       "settings": {
         "meta_descr": "Flying Kites believe in providing students with access to high­ quality education and holistic support is vital to alleviate suffering, increase gender equality and promote economic sustainability. By meeting the needs of the whole child, their integrative programs give students the tools they need to build their best lives and positively impact their families, communities and country. This work was used across their social media and website platforms. ",
         "title": "Flying Kites",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -1908,6 +1930,57 @@
         },
         {
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when not (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#000000",
+              "text-align": "right"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\" checked>  \n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fffcfa\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/edinburgh-freelance-videographer-1-960x1440.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\"><br><br><br><br>\"Eugene and Katy were really easy to work with in the planning stages. On the ground they were a pleasure to work with, professional and good fun. We connected right away through a shared passion for Africa’s places and it’s people, and this comes through in Munjiri’s authentic work, which is hard to find in today’s hyped up social media world. The finished product was just what we had in mind and we continue to receive only positive feedback on it. I look forward to enjoying the company of Munjiri again one day.\"<br><br>Paul Tickner – Paul Tickner Safaris&nbsp;</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rk3hlHzgv4",
+          "_anchor": "content6-hz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
             ".navbar": {
               "background": "@menuBgColor",
               "transition": "none",
@@ -2437,7 +2510,7 @@
       "settings": {
         "meta_descr": "Paul Tickner Safaris believes that responsible tourism can help to solve the problems of wildlife conservation and economic and social development. Their safaris have a strong commitment to this; promoting wild places, using good ethical practice and working with local communities.  ",
         "title": "Paul Tickner Safaris",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -3022,7 +3095,7 @@
       "settings": {
         "meta_descr": "Dedza Handmade is the creation of recycled-paper artist, Henry Ng’ambe and is a result of his passion for a sustainable future for Malawi. His business is founded on a belief that local communities benefit environmentally and economically when re-using their local resources.",
         "title": "Dedza Handmade",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -3606,7 +3679,7 @@
       "settings": {
         "meta_descr": "Uweza recognises that Kibera residents are creative, resilient and resourceful and that sustainable change requires a future generation that is more educated, motivated and empowered. They provide 300 Kenyan children and youth with unique opportunities to pursue a path to a better future through the discovery and development of their talents and abilities.\n",
         "title": "Uweza",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -5141,7 +5214,7 @@
       "settings": {
         "meta_descr": "",
         "title": "Blog",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -6830,7 +6903,7 @@
       "settings": {
         "meta_descr": "More projects we've worked on ",
         "title": "More Videos",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -7410,7 +7483,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -7987,7 +8060,7 @@
       "settings": {
         "meta_descr": "Coral and Hive produces beautiful handmade rugs in Cape Town, South Africa. Their handwoven natural rugs are made from a range of fibres including mohair, karakul, cotton, wool and hemp. ",
         "title": "Coral and Hive, Hand woven rugs made in Cape Town, South Africa",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -8572,7 +8645,7 @@
       "settings": {
         "meta_descr": "Watamu Treehouse is a unique guesthouse on Kenya's coast, built in harmony with the rhythm of nature. ",
         "title": "Watamu Treehouse, a unique guesthouse on Kenya's coast ",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -9157,7 +9230,7 @@
       "settings": {
         "meta_descr": "Ajiri Tea, Kenyan tea and coffee, promoting employment for women and education for orphans.",
         "title": "Ajiri Tea, Kenyan tea and coffee",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -9742,7 +9815,7 @@
       "settings": {
         "meta_descr": "Acacia Creations handmade recyled paper jewelry made by their artisan partners",
         "title": "Acacia Creations recycled paper jewelry ",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -10327,7 +10400,7 @@
       "settings": {
         "meta_descr": "The Mushroom Farm in northern Malawi is a permaculture eco-lodge, campsite and social enterprise situated on the Livingstonia escarpment. ",
         "title": "Mushroom Farm Malawi, ecolodge situated on the Livingstonia escarpment",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -10916,7 +10989,7 @@
       "settings": {
         "meta_descr": "Soul Design Jewellery based in Cape Town South Africa, is a bespoke range of jewellery created by designer Abi James. Soul supports sustainable production, and each piece of their jewellery, emphasizes the unique skills of craftsmen. ",
         "title": "Soul Design Jewellery from South Africa",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -11503,7 +11576,7 @@
       "settings": {
         "meta_descr": "The Heartfelt project creates beautiful handmade felt products. Their range of products from adorable rhino toys to branded gifts bring together rural woman producers and designers to develop innovative, product lines and support the local community.",
         "title": "The Heartfelt Project  a small piece of the Heartfelt story",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -12088,7 +12161,7 @@
       "settings": {
         "meta_descr": "Videographer Instagram, Munjiri recent happenings videos and photos",
         "title": "Videographer Instagram",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -14280,7 +14353,7 @@
       "settings": {
         "meta_descr": "Sandstorm used to make luxury safari tents. Today they use the same skills and materials to create beautiful leather backpacks, handbags and wallets, at their workshop just outside Nairobi, Kenya. ",
         "title": "Sandstorm, Leather bags made in Kenya",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -15686,7 +15759,7 @@
       "settings": {
         "meta_descr": "Video marketing strategy, so you've made the video now what? How to use social media, facebook, vimeo to promote your video",
         "title": "Video Marketing Strategy",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
