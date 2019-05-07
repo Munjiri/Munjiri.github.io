@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "index.html",
+    "currentPage": "videographerinstagram.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 658,
     "versionPublish": "4.9.1",
@@ -12723,9 +12723,9 @@
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
-            "spacing": "27",
+            "spacing": "40",
             "fullWidth": false,
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColorRadio": true,
             "bgColor": "#fffcfa",
