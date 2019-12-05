@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "index.html",
+    "currentPage": "videographerinstagram.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 796,
     "versionPublish": "4.9.1",
@@ -12637,11 +12637,11 @@
         {
           "_params": {
             "token": "2217788630.727bfe1.67cbec79f53a409ba5abb2fb27cd3763",
-            "showTitle": true,
+            "showTitle": false,
             "layoutGridRadio": true,
             "imagesPerRowGrid": "5",
             "rows": "8",
-            "showMoreButton": false,
+            "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
             "spacing": "11",
@@ -12657,7 +12657,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-warning display-7\" href=\"#\" data-max-id=\"2134278842630534922_2217788630\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Instagram&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-7 btn-white\" href=\"#\" data-max-id=\"1984338733429443117_2217788630\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show More</a>",
           "display2": "display-5",
           "display4": "display-7",
           "alias": "instagram-feed",
