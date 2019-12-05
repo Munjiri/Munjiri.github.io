@@ -4934,7 +4934,7 @@ body {
 .cid-rdlWesXjLL {
   padding-top: 30px;
   padding-bottom: 120px;
-  background-color: #ffffff;
+  background-color: #fffcfa;
 }
 .cid-rdlWesXjLL .mbr-text,
 .cid-rdlWesXjLL blockquote {
@@ -4945,30 +4945,6 @@ body {
 }
 .cid-rdlWesXjLL .mbr-text DIV {
   text-align: center;
-}
-.cid-rd3ZI4SePr {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-rd3ZI4SePr .image-block {
-  margin: auto;
-}
-.cid-rd3ZI4SePr .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rd3ZI4SePr figcaption {
-  position: relative;
-}
-.cid-rd3ZI4SePr figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rd3ZI4SePr .image-block {
-    width: 100% !important;
-  }
 }
 .cid-rd3Zmh83yD .navbar {
   background: #fffcfa;
