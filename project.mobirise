@@ -3,7 +3,7 @@
     "name": "Munjiri",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 795,
+    "uniqCompNum": 796,
     "versionPublish": "4.9.1",
     "theme": {
       "name": "mobirise4",
@@ -12636,17 +12636,17 @@
         },
         {
           "_params": {
-            "token": "2217788630.727bfe1.72a43678247f4b4e8568bc26c9fbe723",
+            "token": "2217788630.727bfe1.67cbec79f53a409ba5abb2fb27cd3763",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": "3",
+            "imagesPerRowGrid": "5",
             "rows": "8",
-            "showMoreButton": true,
+            "showMoreButton": false,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
-            "spacing": "40",
-            "fullWidth": false,
-            "paddingTop": "1",
+            "spacing": "11",
+            "fullWidth": true,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColorRadio": true,
             "bgColor": "#fffcfa",
@@ -12656,16 +12656,16 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-5 btn-primary-outline\" href=\"#\" data-max-id=\"1940610649513849879_2217788630\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-5",
+          "title": "Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-warning display-7\" href=\"#\" data-max-id=\"2134278842630534922_2217788630\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Instagram&nbsp;</a>",
+          "display2": "display-5",
+          "display4": "display-7",
           "alias": "instagram-feed",
           "_tags": [
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-hn"
+          "_anchor": "instagram-feed-block-m3"
         },
         {
           "_styles": {
