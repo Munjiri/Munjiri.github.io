@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "videographerinstagram.html",
+    "currentPage": "blog.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 796,
+    "uniqCompNum": 797,
     "versionPublish": "4.9.1",
     "theme": {
       "name": "mobirise4",
@@ -1201,7 +1201,7 @@
             "bgColorRadio": true,
             "bgColor": "#fffcfa",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -2348,7 +2348,7 @@
             "bgColorRadio": true,
             "bgColor": "#fffcfa",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -5285,6 +5285,39 @@
           "_params": {}
         },
         {
+          "_params": {
+            "token": "2217788630.727bfe1.67cbec79f53a409ba5abb2fb27cd3763",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "6",
+            "rows": "1",
+            "showMoreButton": false,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": "11",
+            "fullWidth": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#fffcfa",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-warning display-7\" href=\"#\" data-max-id=\"2134278842630534922_2217788630\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Instagram&nbsp;</a>",
+          "display2": "display-5",
+          "display4": "display-7",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-m4"
+        },
+        {
           "_styles": {
             ".navbar": {
               "background": "@menuBgColor",
@@ -5775,39 +5808,6 @@
           "_global": true,
           "_once": true,
           "_params": {}
-        },
-        {
-          "_params": {
-            "token": "2217788630.727bfe1.72a43678247f4b4e8568bc26c9fbe723",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-lw"
         }
       ]
     },
@@ -12651,7 +12651,7 @@
             "bgColorRadio": true,
             "bgColor": "#fffcfa",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
