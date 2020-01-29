@@ -4675,22 +4675,6 @@ body {
 .cid-rOX8mHEC9A .media-container-row .mbr-text {
   color: #000000;
 }
-.cid-rOXOIH4OBl {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #fffcfa;
-}
-.cid-rOXOIH4OBl .mbr-text,
-.cid-rOXOIH4OBl blockquote {
-  color: #767676;
-}
-.cid-rOXOIH4OBl .mbr-text DIV {
-  text-align: center;
-}
-.cid-rOXOIH4OBl .mbr-text P {
-  text-align: center;
-  color: #000000;
-}
 .cid-rOX0j3Pbng {
   background-image: url("../../../assets/images/pamoja.00-00-15-20.still008-1920x1080.jpg");
 }
@@ -5012,6 +4996,48 @@ body {
 }
 .cid-rOX09u9aad P {
   text-align: center;
+}
+.cid-rOXXoLVw30 {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #fffcfa;
+}
+.cid-rOXXoLVw30 .mbr-text,
+.cid-rOXXoLVw30 blockquote {
+  color: #767676;
+}
+.cid-rOXXoLVw30 .mbr-text DIV {
+  text-align: center;
+}
+.cid-rOXXoLVw30 .mbr-text P {
+  text-align: center;
+  color: #000000;
+}
+.cid-rOXXiPJPNn {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #fffcfa;
+}
+.cid-rOXXiPJPNn h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rOXXiPJPNn p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rOXXiPJPNn .card-box {
+  padding-top: 2rem;
+}
+.cid-rOXXiPJPNn .card-wrapper {
+  height: 100%;
+}
+.cid-rOXXiPJPNn .card-title {
+  text-align: center;
+}
+.cid-rOXXiPJPNn P {
+  text-align: right;
 }
 .cid-riE2jApFL6 .navbar {
   background: #fffcfa;
