@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 927,
     "versionPublish": "4.9.1",
@@ -144,7 +144,7 @@
   "pages": {
     "contact.html": {
       "settings": {
-        "meta_descr": "Videographer Contact",
+        "meta_descr": "Contact us if you are looking for a freelance videographer or filmmaker!",
         "title": "Contact | Munjiri Videos",
         "order": 19
       },
