@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "edinburghfreelancevideographer.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 927,
     "versionPublish": "4.9.1",
@@ -1553,7 +1553,7 @@
     },
     "videographyclients.html": {
       "settings": {
-        "meta_descr": "What our clients say about our filmmaking. ",
+        "meta_descr": "What our clients say about our videography, \"a stunning visual feast, backed up by a perfectly judged soundtrack and a compelling narrative. \"",
         "title": "Videography clients | Munjiri Videos ",
         "order": 4
       },
@@ -2372,7 +2372,7 @@
     },
     "munjirifilms.html": {
       "settings": {
-        "meta_descr": "Our recent film and videography work",
+        "meta_descr": "Take a look at some of the amazing videos and people we've been working with.",
         "title": "Films",
         "order": 1
       },
