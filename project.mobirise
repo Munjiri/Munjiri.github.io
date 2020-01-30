@@ -146,7 +146,7 @@
       "settings": {
         "meta_descr": "Contact us if you are looking for a freelance videographer or filmmaker!",
         "title": "Contact | Munjiri Videos",
-        "order": 19
+        "order": 5
       },
       "components": [
         {
@@ -743,7 +743,7 @@
       "settings": {
         "main": true,
         "title": "Munjiri Videos | Videographers, Edinburgh + Cape Town",
-        "meta_descr": "Two freelance videographers working between Cape Town and Edinburgh (and lots of places inbetween) . ",
+        "meta_descr": "Two freelance videographers working between Cape Town and Edinburgh (and lots of places inbetween). Focusing on creativity, community and conservation.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2372,7 +2372,7 @@
     },
     "munjirifilms.html": {
       "settings": {
-        "meta_descr": "Munjiri Videos ",
+        "meta_descr": "Our recent film and videography work",
         "title": "Films",
         "order": 1
       },
@@ -2943,9 +2943,9 @@
     },
     "edinburghfreelancevideographer.html": {
       "settings": {
-        "meta_descr": "Munjiri Videos is a videographer team based in Edinburgh, Scotland, who focus on telling your stories through authentic short films. ",
+        "meta_descr": "Videographer, Edinburgh. Creating authentic videos that help your organisation grow.",
         "title": "Edinburgh Videographer | Munjiri Videos",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -3996,9 +3996,9 @@
     },
     "capetownvideographer.html": {
       "settings": {
-        "meta_descr": "Based in Cape Town, South Africa we are a video production company committed to providing beautiful and genuine videography.",
-        "title": "Cape Town Videographers | Munjiri Videos",
-        "order": 2
+        "meta_descr": "Videographer, Cape Town. Creating genuine videos that create a connection.",
+        "title": "Cape Town Videographer | Munjiri Videos",
+        "order": 3
       },
       "components": [
         {
