@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "capetownvideographer.html",
+    "currentPage": "munjirifilms.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 929,
     "versionPublish": "4.9.1",
@@ -2372,7 +2372,7 @@
     },
     "munjirifilms.html": {
       "settings": {
-        "meta_descr": "Take a look at some of the amazing videos and people we've been working with.",
+        "meta_descr": "Take a look at some of the amazing videos we've been working with and people we've been working with. ",
         "title": "Films",
         "order": 1
       },
