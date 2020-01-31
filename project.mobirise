@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Munjiri",
-    "currentPage": "munjirifilms.html",
+    "currentPage": "edinburghfreelancevideographer.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 929,
     "versionPublish": "4.9.1",
@@ -2944,7 +2944,7 @@
     "edinburghfreelancevideographer.html": {
       "settings": {
         "meta_descr": "Videographer, Edinburgh. Creating authentic videos that help your organisation grow.",
-        "title": "Edinburgh Videographer | Munjiri Videos",
+        "title": "Videographer Edinburgh | Munjiri Videos",
         "order": 2
       },
       "components": [
@@ -3997,7 +3997,7 @@
     "capetownvideographer.html": {
       "settings": {
         "meta_descr": "Videographer, Cape Town. Creating genuine videos that create a connection.",
-        "title": "Cape Town Videographer | Munjiri Videos",
+        "title": "Videographer Cape Town| Munjiri Videos",
         "order": 3
       },
       "components": [
