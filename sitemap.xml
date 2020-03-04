@@ -6,9 +6,6 @@
 		<loc>https://www.munjiri.com/index.html</loc>
 	</url>
 	<url>
-		<loc>https://www.munjiri.com/munjirifilms.html</loc>
-	</url>
-	<url>
 		<loc>https://www.munjiri.com/edinburghfreelancevideographer.html</loc>
 	</url>
 	<url>
@@ -34,5 +31,8 @@
 	</url>
 	<url>
 		<loc>https://www.munjiri.com/videography-clients.html</loc>
+	</url>
+	<url>
+		<loc>https://www.munjiri.com/munjiri-films.html</loc>
 	</url>
 </urlset>
