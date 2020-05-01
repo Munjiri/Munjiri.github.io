@@ -1918,11 +1918,20 @@ body {
 .cid-rPxzfiYoTr P {
   color: #000000;
 }
+.cid-rXJPq5zyUS {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #fffcfa;
+}
+.cid-rXJPq5zyUS P {
+  color: #000000;
+  text-align: center;
+}
 .cid-rXJNxQCSv1 {
-  background: #fafafa;
+  background: #fffcfa;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #fafafa, #ffffff);
+  background: linear-gradient(0deg, #fffcfa, #fffcfa);
 }
 .cid-rXJNxQCSv1 .video-block {
   margin: auto;
@@ -1975,6 +1984,14 @@ body {
 .cid-rORmBjpFmg P {
   text-align: right;
 }
+.cid-rPycB9SIgv {
+  padding-top: 105px;
+  padding-bottom: 75px;
+  background-color: #fffcfa;
+}
+.cid-rPycB9SIgv P {
+  color: #000000;
+}
 .cid-rPxSvri0Rp {
   padding-top: 0px;
   padding-bottom: 60px;
@@ -1998,14 +2015,6 @@ body {
   .cid-rPxSvri0Rp .image-block {
     width: 100% !important;
   }
-}
-.cid-rPycB9SIgv {
-  padding-top: 105px;
-  padding-bottom: 75px;
-  background-color: #fffcfa;
-}
-.cid-rPycB9SIgv P {
-  color: #000000;
 }
 .cid-rPxT0C05zV {
   padding-top: 120px;
@@ -10187,7 +10196,7 @@ body {
   color: #fffcfa;
 }
 .cid-rQQrU806h3 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10802.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10803.jpg");
 }
 .cid-rQQrU806h3 .mbr-media span {
   font-size: 48px;
