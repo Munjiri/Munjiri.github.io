@@ -1920,11 +1920,12 @@ body {
 }
 .cid-rXJNxQCSv1 {
   background: #fafafa;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: linear-gradient(0deg, #fafafa, #ffffff);
 }
 .cid-rXJNxQCSv1 .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rXJNxQCSv1 .video-block {
@@ -10186,7 +10187,7 @@ body {
   color: #fffcfa;
 }
 .cid-rQQrU806h3 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10801.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10802.jpg");
 }
 .cid-rQQrU806h3 .mbr-media span {
   font-size: 48px;
