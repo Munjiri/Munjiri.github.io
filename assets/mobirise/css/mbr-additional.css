@@ -9652,7 +9652,7 @@ body {
   color: #fffcfa;
 }
 .cid-rQQrU806h3 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10800.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10801.jpg");
 }
 .cid-rQQrU806h3 .mbr-media span {
   font-size: 48px;
@@ -13487,6 +13487,46 @@ body {
   text-align: center;
 }
 .cid-s48HAcbKhJ .mbr-text P {
+  text-align: center;
+  color: #000000;
+}
+.cid-s49bTqA1p5 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #fffcfa;
+}
+.cid-s49bTqA1p5 .image-block {
+  margin: auto;
+}
+.cid-s49bTqA1p5 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-s49bTqA1p5 figcaption {
+  position: relative;
+}
+.cid-s49bTqA1p5 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s49bTqA1p5 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s498eP1mD2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #fffcfa;
+}
+.cid-s498eP1mD2 .mbr-text,
+.cid-s498eP1mD2 blockquote {
+  color: #767676;
+}
+.cid-s498eP1mD2 .mbr-text DIV {
+  text-align: center;
+}
+.cid-s498eP1mD2 .mbr-text P {
   text-align: center;
   color: #000000;
 }
