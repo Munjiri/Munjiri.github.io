@@ -2,3 +2,7 @@
    font-family: 'MunjiFont-Regular';
    src: url('MunjiFont-Regular/font.ttf');
 }
+@font-face {
+   font-family: 'Adobe Caslon Pro Regular';
+   src: url('Adobe Caslon Pro Regular/font.ttf');
+}
