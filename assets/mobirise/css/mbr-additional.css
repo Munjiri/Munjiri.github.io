@@ -1378,33 +1378,6 @@ body {
     flex: auto!important;
   }
 }
-.cid-riqES2iuTd {
-  padding-top: 120px;
-  padding-bottom: 0px;
-  background-color: #fffcfa;
-}
-.cid-riqES2iuTd .title {
-  margin-bottom: 2rem;
-}
-.cid-riqES2iuTd .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-riqES2iuTd a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-riqES2iuTd a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-riqES2iuTd .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-riqES2iuTd .input-group-btn {
-  display: block;
-  text-align: center;
-}
 .cid-qHrzLtJAdt {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -1416,6 +1389,40 @@ body {
 }
 .cid-qHrzLtJAdt .mbr-text P {
   text-align: center;
+}
+.cid-sl7f5YXLFJ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #fffcfa;
+}
+.cid-sl7f5YXLFJ .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sl7f5YXLFJ .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sl7f5YXLFJ .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sl7f5YXLFJ .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sl7f5YXLFJ .mbr-text,
+.cid-sl7f5YXLFJ .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-sl7f5YXLFJ H1 {
+  color: #000000;
 }
 .cid-qHgLHK8HW5 .navbar {
   background: #fffcfa;
@@ -1887,24 +1894,27 @@ body {
 .cid-riqaGWVPsf P {
   color: #000000;
 }
-.cid-riqkPSMeS9 {
-  background: #fffcfa;
-  padding-top: 45px;
+.cid-rPxSvri0Rp {
+  padding-top: 0px;
   padding-bottom: 60px;
+  background: #fffcfa;
 }
-.cid-riqkPSMeS9 .image-block {
+.cid-rPxSvri0Rp .image-block {
   margin: auto;
 }
-.cid-riqkPSMeS9 figcaption {
+.cid-rPxSvri0Rp .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rPxSvri0Rp figcaption {
   position: relative;
 }
-.cid-riqkPSMeS9 figcaption div {
+.cid-rPxSvri0Rp figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-riqkPSMeS9 .image-block {
+  .cid-rPxSvri0Rp .image-block {
     width: 100% !important;
   }
 }
@@ -1989,30 +1999,6 @@ body {
 }
 .cid-rPycB9SIgv P {
   color: #000000;
-}
-.cid-rPxSvri0Rp {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #fffcfa;
-}
-.cid-rPxSvri0Rp .image-block {
-  margin: auto;
-}
-.cid-rPxSvri0Rp .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rPxSvri0Rp figcaption {
-  position: relative;
-}
-.cid-rPxSvri0Rp figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rPxSvri0Rp .image-block {
-    width: 100% !important;
-  }
 }
 .cid-rPxT0C05zV {
   padding-top: 120px;
@@ -10196,7 +10182,7 @@ body {
   color: #ffffff;
 }
 .cid-rQQrU806h3 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10806.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10801.jpg");
 }
 .cid-rQQrU806h3 .mbr-media span {
   font-size: 48px;
@@ -18123,7 +18109,7 @@ body {
   color: #767676 !important;
 }
 .cid-s5XHb9nM05 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10806.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10801.jpg");
 }
 .cid-s5XHb9nM05 .mbr-media span {
   font-size: 48px;
