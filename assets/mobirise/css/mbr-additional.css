@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i);
+
 
 
 body {
@@ -38,7 +40,7 @@ body {
   font-size: 3.2rem;
 }
 .display-5 {
-  font-family: 'Adobe Caslon Pro Regular';
+  font-family: 'Crimson Text', serif;
   font-size: 1.1rem;
 }
 .display-5 > .mbr-iconfont {
@@ -10182,7 +10184,7 @@ body {
   color: #ffffff;
 }
 .cid-rQQrU806h3 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10803.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10800.jpg");
 }
 .cid-rQQrU806h3 .mbr-media span {
   font-size: 48px;
@@ -18087,7 +18089,7 @@ body {
   color: #767676 !important;
 }
 .cid-s5XHb9nM05 {
-  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10803.jpg");
+  background-image: url("../../../assets/images/ajiri-tea-and-coffee.00-00-16-16.still001-1920x10800.jpg");
 }
 .cid-s5XHb9nM05 .mbr-media span {
   font-size: 48px;
